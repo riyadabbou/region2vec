@@ -1,0 +1,2 @@
+file_name,n_clusters,linkage,distance,total_ratio,median_ineq,median_cossim,median_dist,homo_score
+Epoch_376_lr_0.001_dropout_0.1_hidden_16_output_14_patience_50_hos_5_losstype_divreg_seed_42.csv,14,ward,euclidean,3.486204126473714,0.35519253533586836,0.9750127527397119,0.22995096097947854,0.10592715023475478

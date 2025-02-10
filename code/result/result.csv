@@ -1,0 +1,1 @@
+epoch,losstype,hops,inertia,total_ratio,global_ineq,output,hidden,lr,dropout,patience,median_ineq,n_clu

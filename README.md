@@ -1,6 +1,4 @@
-# region2vec-GAT
 
-**GeoAI-Enhanced Community Detection on Spatial Networks with Graph Deep Learning**
  
 region2vec: Community Detection on Spatial Networks Using Graph Embedding with Node Attributes and Spatial Interactions
 
